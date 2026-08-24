@@ -1,0 +1,85 @@
+name: tiktok-pipeline
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'   # каждые 4ч проверка склада: <100 видео - долить
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  marathon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg aria2 unzip
+          pip install -U yt-dlp bgutil-ytdlp-pot-provider yt-dlp-ejs
+          curl -sL https://github.com/denoland/deno/releases/latest/download/deno-x86_64-unknown-linux-gnu.zip -o /tmp/deno.zip
+          sudo unzip -o /tmp/deno.zip -d /usr/local/bin
+          # PO-token: http-контейнер + скриптовый режим (deno) как запасной вариант
+          docker run -d --name pot -p 4416:4416 brainicism/bgutil-ytdlp-pot-provider || true
+          git clone -q --depth 1 https://github.com/Brainicism/bgutil-ytdlp-pot-provider ~/bgutil-ytdlp-pot-provider
+          (cd ~/bgutil-ytdlp-pot-provider/server && npm install --no-audit --no-fund)
+          sleep 3
+          yt-dlp --version
+          echo "pot-плагин: $(pip show bgutil-ytdlp-pot-provider 2>/dev/null | head -1)"
+
+      - name: Prepare assets and cookies
+        run: |
+          mkdir -p assets /tmp/repo
+          if [ -n "${{ secrets.YT_COOKIES }}" ]; then
+            printf '%s' "${{ secrets.YT_COOKIES }}" > assets/cookies.txt
+            echo "cookies строк: $(wc -l < assets/cookies.txt)"
+          else
+            echo "секрет YT_COOKIES пуст - работаем без куки"
+          fi
+
+      - name: TikTok sync-delete (снести с GitHub то, что уже залито на TikTok)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TIKTOK_USER: newora_
+        run: python3 tiktok_sync.py || true
+
+      - name: Run marathon
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STOP_AFTER_MIN: 325
+          TARGET: 1000000
+          CAP_PER_CHANNEL: 40
+        run: bash runner_actions.sh
+
+      - name: Commit processed state
+        if: always() && !cancelled()
+        run: |
+          git config user.email "bot@local"
+          git config user.name "tiktok-bot"
+          git add processed.txt zero_runs.txt 2>/dev/null || git add processed.txt
+          git commit -q -m "state: $(grep -c '|done|' processed.txt 2>/dev/null || echo 0) done" || echo "нет изменений"
+          git fetch origin main
+          git rebase origin/main || { git checkout --theirs processed.txt zero_runs.txt 2>/dev/null; git add -A; git rebase --continue || git rebase --abort; }
+          git push || echo "push не вышел (не критично)"
+
+      - name: Self-dispatch next run if needed
+        if: always() && !cancelled()
+        run: |
+          DONE=$(grep -c '|done|' processed.txt 2>/dev/null || echo 0)
+          ZERO=$(cat zero_runs.txt 2>/dev/null || echo 0)
+          STOCK=$(curl -s -m 20 -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/contents/videos" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d) if isinstance(d,list) else 0)" 2>/dev/null || echo 0)
+          echo "done=$DONE zero_runs=$ZERO stock=$STOCK"
+          if [ "$STOCK" -lt 100 ] && [ "$ZERO" -lt 3 ]; then
+            sleep 15
+            curl -s -X POST \
+              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/tiktok.yml/dispatches" \
+              -d '{"ref":"main"}'
+            echo "Следующий ран запущен"
+          else
+            echo "Самодиспатч не нужен (done=$DONE, zero=$ZERO)"
+          fi
