@@ -26,3 +26,4 @@ jobs:
           GH_REPO: minecraftwiki-xyz/video-tiktok-2
           TIKTOK_USER: svytoi068
           PEER_REPO: minecraftwiki-xyz/video-tiktok
+          PURGE_PEER_DUPES: "1"
