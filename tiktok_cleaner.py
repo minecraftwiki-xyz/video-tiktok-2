@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
-# tiktok_cleaner.py — раз в прогон смотрит профиль TikTok и:
-#  - если пост опубликован (описание до '|' 1:1 = имя файла, без учёта регистра) ->
-#    удаляет файл из репо videos/ и убирает из drafts.md / drafts_state.json
-#  - ничего не заливает, только чистит
+# tiktok_cleaner.py — проверка залитых + синхронизация processed.txt между репо.
+#  - профиль TikTok: описание до '|' 1:1 (регистр не важен) = имя файла -> удаляет videos/<name>
+#  - processed.txt: объединение между GH_REPO и PEER_REPO (пишет только если изменилось)
 import os, sys, json, time, base64, subprocess, urllib.request, urllib.error, urllib.parse
 
-GH_REPO  = os.environ.get("GH_REPO", "minecraftwiki-xyz/video-tiktok")
 GH_TOKEN = os.environ.get("GH_TOKEN", "")
+GH_REPO  = os.environ.get("GH_REPO", "minecraftwiki-xyz/video-tiktok")
+PEER_REPO = os.environ.get("PEER_REPO", "")
 TIKTOK_USER = os.environ.get("TIKTOK_USER", "newora_")
-HASHTAGS = "#cs2 #youtube #video"
-STATE_PATH, LIST_PATH = "drafts_state.json", "drafts.md"
 
-def gh(method, path, body=None, nf=False):
-    req = urllib.request.Request(f"https://api.github.com/repos/{GH_REPO}{path}", method=method)
+def gh(method, path, body=None, nf=False, repo=None):
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo or GH_REPO}{path}", method=method)
     req.add_header("Authorization", f"Bearer {GH_TOKEN}")
     req.add_header("Accept", "application/vnd.github+json")
     req.add_header("User-Agent", "tiktok-cleaner")
@@ -25,27 +23,51 @@ def gh(method, path, body=None, nf=False):
         if nf and e.code == 404: return None
         raise
 
-def get_file(path):
-    it = gh("GET", f"/contents/{path}", nf=True)
+def get_text(path, repo=None):
+    it = gh("GET", f"/contents/{path}", nf=True, repo=repo)
     if not it: return None
-    try: return json.loads(base64.b64decode(it["content"]).decode())
+    try: return base64.b64decode(it["content"]).decode()
     except Exception: return None
 
-def put_file(path, text, msg):
+def get_json(path):
+    t = get_text(path)
+    try: return json.loads(t) if t else None
+    except Exception: return None
+
+def put_text(path, text, msg, repo=None):
     body = {"message": msg, "content": base64.b64encode(text.encode()).decode()}
     for attempt in range(3):
-        cur = gh("GET", f"/contents/{path}", nf=True)
+        cur = gh("GET", f"/contents/{path}", nf=True, repo=repo)
         if cur: body["sha"] = cur["sha"]
         try:
-            gh("PUT", f"/contents/{path}", body); return
+            gh("PUT", f"/contents/{path}", body, repo=repo); return True
         except urllib.error.HTTPError as e:
             if e.code == 409:
                 time.sleep(2); continue
-            raise
-    print(f"warn: put {path} законфликтовал, пропуск")
+            print(f"warn: put {path} HTTP {e.code}"); return False
+    print(f"warn: put {path} законфликтовал"); return False
 
 def stem_of(name):
     return name[:-4] if name.lower().endswith(".mp4") else name
+
+def sync_processed():
+    if not PEER_REPO: return
+    a = get_text("processed.txt") or ""
+    b = get_text("processed.txt", repo=PEER_REPO) or ""
+    A = a.splitlines()
+    uset = set(A)
+    union = "\n".join(A + [l for l in b.splitlines() if l not in uset])
+    union = union + "\n" if union else ""
+    n_a, n_b = len(A), len(b.splitlines())
+    n_u = len(union.splitlines())
+    if n_u > n_a:
+        put_text("processed.txt", union, f"sync processed: ∪{n_u} (+{n_u-n_a})", )
+        print(f"processed: {GH_REPO} {n_a} -> {n_u}")
+    if n_u > n_b:
+        put_text("processed.txt", union, f"sync processed: ∪{n_u} (+{n_u-n_b})", repo=PEER_REPO)
+        print(f"processed: {PEER_REPO} {n_b} -> {n_u}")
+    if n_u == n_a == n_b:
+        print(f"processed: синхронно ({n_a})")
 
 def profile_heads():
     out = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--no-warnings",
@@ -64,54 +86,32 @@ def main():
     if not GH_TOKEN:
         print("нет GH_TOKEN"); return 0
     try:
+        sync_processed()
+    except Exception as e:
+        print("processed sync упал (не страшно):", e)
+    try:
         heads = profile_heads()
     except Exception as e:
         print("профиль недоступен:", e); return 0
     if not heads:
-        print("профиль пуст/не отдался — пропуск прогона"); return 0
-    print(f"постов на профиле с описанием: {len(heads)}")
+        print("профиль пуст/не отдался — пропуск"); return 0
+    print(f"@{TIKTOK_USER}: постов с описанием: {len(heads)}")
 
     listing = gh("GET", "/contents/videos") or []
-    sha_map = {it["name"]: it["sha"] for it in listing
-               if it.get("type") == "file" and it["name"].lower().endswith(".mp4")}
-
-    state = get_file(STATE_PATH)
-    if not isinstance(state, dict) or not isinstance(state.get("items"), list):
-        state = {"items": [], "bad": {}, "posted": [], "pids": {}, "cooldown_until": 0}
-    state.setdefault("posted", []); state.setdefault("pids", {})
-
-    removed = []
-    for name, sha in list(sha_map.items()):
-        st = stem_of(name)
+    removed = 0
+    for it in listing:
+        if it.get("type") != "file" or not it["name"].lower().endswith(".mp4"): continue
+        st = stem_of(it["name"])
         if len(st) < 8: continue
         if st.casefold() in heads:
-            print(f"опубликовано -> удаляю из репо: {name}")
+            print(f"опубликовано -> удаляю: {it['name']}")
             try:
-                gh("DELETE", f"/contents/videos/{urllib.parse.quote(name)}",
-                   {"message": f"published: {name}", "sha": sha})
-                removed.append(name)
+                gh("DELETE", f"/contents/videos/{urllib.parse.quote(it['name'])}",
+                   {"message": f"published: {it['name']}", "sha": it["sha"]})
+                removed += 1
             except urllib.error.HTTPError as e:
                 print("  DELETE не прошёл:", e.code)
-
-    # те, что уже пропали из репо ранее, но вдруг висят в списке черновиков — тоже чистим
-    for name in list(state["items"]):
-        st = stem_of(name)
-        if len(st) >= 8 and st.casefold() in heads and name not in removed:
-            print(f"пропадает из списка (файла уже нет): {name}")
-            removed.append(name)
-
-    if removed:
-        state["items"] = [n for n in state["items"] if n not in removed]
-        for n in removed:
-            state["pids"].pop(n, None)
-            state["posted"].append(n)
-        state["posted"] = state["posted"][-300:]
-        put_file(STATE_PATH, json.dumps(state, ensure_ascii=False), "cleaner: -опубликованные")
-        lines = [f"{i}. {stem_of(n)} | {HASHTAGS}" for i, n in enumerate(state["items"], 1)]
-        put_file(LIST_PATH, "\n".join(lines) + "\n", f"cleaner list ({len(lines)})")
-        print(f"убрано {len(removed)}: {[n[:40] for n in removed]}")
-    else:
-        print("новых опубликованных нет")
+    print("готово:", f"удалено {removed}" if removed else "новых опубликованных нет")
     return 0
 
 if __name__ == "__main__":
