@@ -69,6 +69,25 @@ def sync_processed():
     if n_u == n_a == n_b:
         print(f"processed: синхронно ({n_a})")
 
+def purge_peer_dupes():
+    """Ферма-2: удаляет из своего videos/ файлы, которые уже есть в videos/ пир-репо."""
+    if os.environ.get("PURGE_PEER_DUPES") != "1" or not PEER_REPO:
+        return
+    mine = gh("GET", "/contents/videos") or []
+    peer = gh("GET", "/contents/videos", repo=PEER_REPO) or []
+    pnames = {x["name"] for x in peer if x.get("type") == "file"}
+    n = 0
+    for it in mine:
+        if it.get("type") == "file" and it["name"] in pnames:
+            print("уже есть в основном -> удаляю из копии:", it["name"])
+            try:
+                gh("DELETE", f"/contents/videos/{urllib.parse.quote(it['name'])}",
+                   {"message": f"dup of main repo: {it['name']}", "sha": it["sha"]})
+                n += 1
+            except urllib.error.HTTPError as e:
+                print("  DELETE не прошёл:", e.code)
+    print(f"пир-дедуп: удалено {n}" if n else "пир-дедуп: чисто")
+
 def profile_heads():
     out = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--no-warnings",
                           f"https://www.tiktok.com/@{TIKTOK_USER}"],
@@ -89,6 +108,10 @@ def main():
         sync_processed()
     except Exception as e:
         print("processed sync упал (не страшно):", e)
+    try:
+        purge_peer_dupes()
+    except Exception as e:
+        print("пир-дедуп упал (не страшно):", e)
     try:
         heads = profile_heads()
     except Exception as e:
