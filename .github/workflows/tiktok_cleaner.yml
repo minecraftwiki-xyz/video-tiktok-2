@@ -1,0 +1,27 @@
+name: tiktok-cleaner
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'   # каждые 5 минут
+
+concurrency:
+  group: tt-poster            # общая группа с постером: никогда не работают одновременно
+  cancel-in-progress: false
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: sync published & delete from repo
+        run: |
+          curl -fsSL -H "Authorization: Bearer $GH_TOKEN" \
+               -H "Accept: application/vnd.github.raw" \
+               "https://api.github.com/repos/minecraftwiki-xyz/video-tiktok-2/contents/tiktok_cleaner.py?ref=main" \
+               -o tiktok_cleaner.py
+          pip install -q yt-dlp
+          python3 tiktok_cleaner.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_REPO: minecraftwiki-xyz/video-tiktok-2
+          TIKTOK_USER: svytoi068
