@@ -57,6 +57,7 @@
 @Murzikfix|XAaxXGuq2sI|done|КАК Я ОТКРЫЛ 300 ГАММА КЕЙСОВ В CS2.mp4
 @Murzikfix|ZALhtTkga_8|done|#3 CS2 S5. КАЛИБРОВКА - ФИНАЛ (КС2).mp4
 @Murzikfix|amCmSYhEPos|done|КАК МЫ ВЫБИЛИ 5 ПАР ПЕРЧАТОК И 2 НОЖА В CS2 ft. Шукарз, Толик.mp4
+@Murzikfix|azhak0q0ZTw|done|НАБИЛ 50 ФРАГОВ НО ПРОИГРАЛ ИГРУ НА FACEIT В CS2. (solo FACEIT).mp4
 @Murzikfix|c9k8V47jZ6M|skip-big|629MB
 @Murzikfix|fFQJokt9Uow|done|ОТКРЫЛ 300 SPECTRUM2 КЕЙСОВ В CS2.mp4
 @Murzikfix|fZLPBQvgELA|done|НАЙДИ КОМАНДУ НА УЛИЦЕ И ВЫИГРАЙ ТУРНИР В CS2 #2.mp4
@@ -170,7 +171,7 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
@@ -212,6 +213,7 @@
 @kurocs2|gEbpKbfV-zc|skip-topic|КАК ИГРАЮТ ТОП-1 ФЕЙСИТА РАЗНЫХ РЕГИОНОВ? часть 2
 @kurocs2|hVS32iAc7Wc|done|НАСТРОЙКА КОНФИГА В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|iKO_MZoYEUI|skip-topic|ВСЕ ПРО ТРЕНИРОВКУ СТРЕЛЬБЫ ЗА 15 МИНУТ!
+@kurocs2|kxhAVuYuyHM|done|ВСЕ ПРО ИГРУ С АВП В КС2 ЗА 18 МИНУТ!.mp4
 @kurocs2|kxnvkZnJF5I|skip-topic|ПЕРВАЯ VS ПОСЛЕДНЯЯ ИГРА СИМПЛА!
 @kurocs2|lmjNLKizmHQ|done|РАЗБИРАЮ ДЕМКИ ПОДПИСЧИКОВ В КС2! часть 2.mp4
 @kurocs2|oGHYLjcz02k|done|РАЗНИЦА МЕЖДУ ТОП-1 ФЕЙСИТА И 1 ЛВЛ!.mp4
@@ -294,5 +296,3 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
-@kurocs2|kxhAVuYuyHM|done|ВСЕ ПРО ИГРУ С АВП В КС2 ЗА 18 МИНУТ!.mp4
-@Murzikfix|azhak0q0ZTw|done|НАБИЛ 50 ФРАГОВ НО ПРОИГРАЛ ИГРУ НА FACEIT В CS2. (solo FACEIT).mp4
