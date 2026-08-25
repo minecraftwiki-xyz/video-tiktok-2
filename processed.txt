@@ -1,6 +1,9 @@
 @Delightyt|0EM2ibzjP_8|done-exists|НОВЫЕ ПЕРЧАТКИ и НОВАЯ КОЛЛЕКЦИЯ в CS2 - Терминал DEAD HAND, Новое Обнов�.mp4
+@Delightyt|6l0yEOb7oyc|done|Прошел КАЛИБРОВКУ на ВСЕХ КАРТАХ в CS2.mp4
+@Delightyt|7nmvUDe2upM|done|КАЛИБРОВКА без ПОРАЖЕНИЙ в CS2 - Какой Рейтинг я ПОЛУЧУ.mp4
 @Delightyt|9h6lwFAknDk|done|ОТКРЫЛ 500 Терминалов DEAD HAND - Выбил 15 Новых Перчаток в CS2.mp4
 @Delightyt|B6LjFNHhLYk|done|VALVE, Включите АНТИ ЧИТ Пожалуйста - Дорога к 35.000 Рейтинга (CS2).mp4
+@Delightyt|Dz4v4Ebq68Q|done|НОВЫЙ АНУБИС В CS2 - Новые Звуки НОЖЕЙ, Добавили АК-47 Афродита, Новое.mp4
 @Delightyt|EPKs-2JoqUI|done|VALVE УБИЛИ Премьер Режим - Дорога к 40.000 Рейтинга (CS2).mp4
 @Delightyt|GfmMWIxnKhg|done|СЫГРАЛ ТУРНИР по CSGO.mp4
 @Delightyt|HQohibX4ljs|done|БАНИМ ЧИТЕРОВ в CS2 - Дорога к 30.000 РЕЙТИНГА.mp4
@@ -67,6 +70,8 @@
 @Murzikfix|k1hRi03Su7o|done|ДОВЕЛ 10 LVL ДО ИСТЕРИКИ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @Murzikfix|lqfKxW2B0lQ|done|КАК Я ПОПАЛ НА 5 LVL FACEIT В CS2.mp4
 @Murzikfix|o9p1KfPVYKM|done|КАК Я ОТКРЫЛ 1500 ЗВЕЗД В CS2.mp4
+@Murzikfix|rFQZt0r4pzY|done|ФИНАЛ КАЛИБРОВКИ НА FACEIT В CS2.mp4
+@Murzikfix|sJbLBA_LBhM|done|КАК Я ОТКРЫВАЛ КЕЙСЫ ГРЕЗЫ И КОШМАРЫ В CS2.mp4
 @Murzikfix|tB6H7u-B0HY|done|СЛУШАЮ ВОЙС ЧАТ НАГЛЫХ СТРИМСНАЙПЕРОВ НА FACEIT В CS2.mp4
 @Murzikfix|uULWEQqnMpY|done|10 LVL FACEIT В ТИЛЬТЕ.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА ФЕЙСИТ В КС2.mp4
 @Murzikfix|xv_RJfigklk|done|СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
@@ -173,10 +178,11 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|3rNMeJg_1-E|done|ВСЕ ПРО РЕТЕЙКИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|69ng1SrPJjI|done|100 ОШИБОК НОВИЧКОВ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|6Mh1BsnpPmE|done|100 СОВЕТОВ НОВИЧКАМ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|7tvp8uyyVVk|done|СЕКРЕТНЫЕ МЕХАНИКИ В КС2 ЗА 15 МИНУТ!.mp4
@@ -197,6 +203,7 @@
 @kurocs2|JI_5LR2A6iA|done|80 ФИШЕК КОТОРЫХ ТЫ НЕ ЗНАЛ В КС2!.mp4
 @kurocs2|LVN6mRB9LBI|done|КАК ИГРАЮТ ТОП-1 ФЕЙСИТА РАЗНЫХ РЕГИОНОВ.mp4
 @kurocs2|Mo_d2_eBKjc|skip-topic|LEVEL 6 THINKS HE PLAYS LIKE 3000 ELO!
+@kurocs2|NSWp03Wk5SU|done|КАК ВЫБРАТЬСЯ С 8 ЛВЛ ФЕЙСИТА.mp4
 @kurocs2|Pniz9HmXanQ|done|РАЗБИРАЮ ДЕМКИ ПОДПИСЧИКОВ В КС2.mp4
 @kurocs2|PpLMN26BGGs|done|ДОНК VS ЗАЙВУ КТО РЕАЛЬНЫЙ ТОП-1 В КС2.mp4
 @kurocs2|Q-PaQeZ7SiY|skip-topic|КАК ИГРАЮТ 10 ЛВЛА РАЗНЫХ РЕГИОНОВ?
@@ -207,6 +214,7 @@
 @kurocs2|VnGPitcMLGA|done|ПЛАЧУ ЗА ФИШКИ В КС2 ПОДПИСЧИКАМ!.mp4
 @kurocs2|VnGPitcMLGA|skip-topic|ПЛАЧУ ЗА ФИШКИ В КС2 ПОДПИСЧИКАМ!
 @kurocs2|VwScfXObrPw|skip-topic|РАЗБИРАЮ ДЕМКИ ПОДПИСЧИКОВ! часть 4
+@kurocs2|YKrBpgsyym4|done|КАК ДЕЛАТЬ БОЛЬШЕ ФРАГОВ В КС2!.mp4
 @kurocs2|_35sxGwELj0|skip-topic|ПЕРВАЯ VS ПОСЛЕДНЯЯ ИГРА ДОНКА!
 @kurocs2|_845Sqwi21k|skip-topic|ВСЕ ФИШКИ ДОНКА С PGL ASTANA ЗА 15 МИНУТ!
 @kurocs2|_DHPQkFFMVE|done|ВСЕ ПРО ПИКИ В КС2 ЗА 15 МИНУТ!.mp4
@@ -301,11 +309,3 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
-@Delightyt|6l0yEOb7oyc|done|Прошел КАЛИБРОВКУ на ВСЕХ КАРТАХ в CS2.mp4
-@kurocs2|YKrBpgsyym4|done|КАК ДЕЛАТЬ БОЛЬШЕ ФРАГОВ В КС2!.mp4
-@Murzikfix|sJbLBA_LBhM|done|КАК Я ОТКРЫВАЛ КЕЙСЫ ГРЕЗЫ И КОШМАРЫ В CS2.mp4
-@Delightyt|7nmvUDe2upM|done|КАЛИБРОВКА без ПОРАЖЕНИЙ в CS2 - Какой Рейтинг я ПОЛУЧУ.mp4
-@kurocs2|NSWp03Wk5SU|done|КАК ВЫБРАТЬСЯ С 8 ЛВЛ ФЕЙСИТА.mp4
-@Murzikfix|rFQZt0r4pzY|done|ФИНАЛ КАЛИБРОВКИ НА FACEIT В CS2.mp4
-@Delightyt|Dz4v4Ebq68Q|done|НОВЫЙ АНУБИС В CS2 - Новые Звуки НОЖЕЙ, Добавили АК-47 Афродита, Новое.mp4
-@kurocs2|3rNMeJg_1-E|done|ВСЕ ПРО РЕТЕЙКИ В КС2 ЗА 15 МИНУТ!.mp4
