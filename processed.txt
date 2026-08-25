@@ -68,6 +68,7 @@
 @Murzikfix|lqfKxW2B0lQ|done|КАК Я ПОПАЛ НА 5 LVL FACEIT В CS2.mp4
 @Murzikfix|o9p1KfPVYKM|done|КАК Я ОТКРЫЛ 1500 ЗВЕЗД В CS2.mp4
 @Murzikfix|tB6H7u-B0HY|done|СЛУШАЮ ВОЙС ЧАТ НАГЛЫХ СТРИМСНАЙПЕРОВ НА FACEIT В CS2.mp4
+@Murzikfix|uULWEQqnMpY|done|10 LVL FACEIT В ТИЛЬТЕ.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА ФЕЙСИТ В КС2.mp4
 @Murzikfix|xv_RJfigklk|done|СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @NadeKingru|0CKUuPD4Lek|done|Когда ФЕЙЛЫ помогают в CS2!.mp4
 @NadeKingru|4YYltbWP2ag|done|CS2, но пол это ЛАВА!.mp4
@@ -172,7 +173,7 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
@@ -300,10 +301,10 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
-@Murzikfix|uULWEQqnMpY|done|10 LVL FACEIT В ТИЛЬТЕ.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА ФЕЙСИТ В КС2.mp4
 @Delightyt|6l0yEOb7oyc|done|Прошел КАЛИБРОВКУ на ВСЕХ КАРТАХ в CS2.mp4
 @kurocs2|YKrBpgsyym4|done|КАК ДЕЛАТЬ БОЛЬШЕ ФРАГОВ В КС2!.mp4
 @Murzikfix|sJbLBA_LBhM|done|КАК Я ОТКРЫВАЛ КЕЙСЫ ГРЕЗЫ И КОШМАРЫ В CS2.mp4
 @Delightyt|7nmvUDe2upM|done|КАЛИБРОВКА без ПОРАЖЕНИЙ в CS2 - Какой Рейтинг я ПОЛУЧУ.mp4
 @kurocs2|NSWp03Wk5SU|done|КАК ВЫБРАТЬСЯ С 8 ЛВЛ ФЕЙСИТА.mp4
 @Murzikfix|rFQZt0r4pzY|done|ФИНАЛ КАЛИБРОВКИ НА FACEIT В CS2.mp4
+@Delightyt|Dz4v4Ebq68Q|done|НОВЫЙ АНУБИС В CS2 - Новые Звуки НОЖЕЙ, Добавили АК-47 Афродита, Новое.mp4
