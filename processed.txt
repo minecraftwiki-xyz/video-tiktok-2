@@ -12,11 +12,14 @@
 @Delightyt|JOUMO0vbPSU|done-exists|НОВАЯ БОМБА в CS2 - Добавили НОВЫЕ КОЛЛЕКЦИИ в ARMORY PASS, Новое Обновле�.mp4
 @Delightyt|KwFrMk-Ty_E|done|Потратил 1.000.000 РУБЛЕЙ на КРАФТЫ ДОРОГИХ НОЖЕЙ в CS2.mp4
 @Delightyt|QkuOdWvFK1A|skip-big|931MB
+@Delightyt|TKf21ZPjAiQ|skip-big|1763MB
 @Delightyt|V4nSjwWOMU0|done|Выбил ПОДПИСЧИКУ его Первый НОЖ в CS2.mp4
 @Delightyt|VGQmUleG5uI|skip-big|1065MB
 @Delightyt|W9QOysVDRUU|done|КАК Я ПРОХОДИЛ КАЛИБРОВКУ на FACEIT в CS2.mp4
 @Delightyt|XGbjuFCkpcw|done|Я ТОП 15 в ПРЕМЬЕР РЕЖИМЕ - Дорога к 35.000 Рейтинга (CS2).mp4
 @Delightyt|YYGMg0r2OzI|skip-topic|РУМТУР - Мое Рабочее Место за 2.000.000 Рублей
+@Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
+@Delightyt|bst1VcyRBUU|done|ФИНАЛ КАЛИБРОВКИ в CS2.mp4
 @Delightyt|cmUi7EGD3jE|skip-big|487MB
 @Delightyt|eXSiKGkaMFg|done|ФИНАЛ Калибровки - VALVE УДАЛИЛИ АНТИ ЧИТ в CS2.mp4
 @Delightyt|fuKmStNu0_g|done|Добавили CACHE в CS2, ИЗМЕНИЛИ DUST 2 - Новое Обновление в КС2.mp4
@@ -53,6 +56,7 @@
 @Murzikfix|5cWWm8IUb20|done|КАК Я ВЫБИВАЛ НОЖ БАБОЧКУ В CS2.mp4
 @Murzikfix|5juS1vjaN6g|done|#1 CS2 S5. ЗОЛОТАЯ КАЛИБРОВКА В CS2.mp4
 @Murzikfix|87duYgV4xYw|done|100 КИЛЛОВ ЗА 2 ИГРЫ, СЛУШАЮ ВОЙС ЧАТ 9 LVL FACEIT В CS2.mp4
+@Murzikfix|AT0Qzp2XaPw|done|РЕВОЛЬВЕР С ЧИТАМИ СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @Murzikfix|DJEXgogXPWM|done|#2 CS2 S5. ВЫСОКИЙ РЕЙТИНГ И РЕЙДЖ СОФТЕР (КАЛИБРОВКА В КС2).mp4
 @Murzikfix|FcymhiLTNsM|skip-big|558MB
 @Murzikfix|HLqXQBvEtt8|done|КАК МЫ ОТКРЫЛИ 400 СУВЕНИРНЫХ НАБОРОВ В CS2 ft. Шукарз, Толик.mp4
@@ -179,7 +183,7 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
@@ -240,11 +244,14 @@
 @kurocs2|uQD9coRzp2E|skip-topic|ФИШКИ ДОНКА С МАЖОРА ЗА 15 МИНУТ!
 @kurocs2|uynYxGRwjm8|skip-topic|КАК ИГРАЮТ ЛЕГЕНДЫ КСА НА САМОМ ДЕЛЕ?
 @kurocs2|wQyyoKWpVQI|skip-topic|HOW DO TOP CS STREAMERS ACTUALLY PLAY? Part 2
+@kurocs2|wUSz3ObLERQ|skip-topic|ВСЕ ФИШКИ СИМПЛА В ПРАЙМЕ ЗА 15 МИНУТ!
 @kurocs2|wkaO6RuSCr8|skip-topic|LVL 8 THINKS HE PLAYS LIKE 3500 ELO!
 @kurocs2|xJDyrxwu_oo|done|КАК ВЫИГРЫВАТЬ ДУЭЛИ В КС ЗА 15 МИНУТ!.mp4
 @kurocs2|xJDyrxwu_oo|skip-topic|КАК ВЫИГРЫВАТЬ ДУЭЛИ В КС ЗА 15 МИНУТ!
 @kurocs2|xX9VCMu5PVQ|skip-topic|ПЕРВАЯ VS ПОСЛЕДНЯЯ ИГРА KYOUSUKE!
 @kurocs2|yGvP4qfn02Q|skip-topic|LEVEL 7 THINKS HE PLAYS LIKE 3500 ELO!
+@kurocs2|zZFtG4CQ4C4|skip-topic|ВСЕ ФИШКИ ЗАЙВУ ЗА 15 МИНУТ!
+@kurocs2|zibqZVNCOq8|done|ВСЕ ПОЗИЦИИ НА МИРАЖЕ В КС2!.mp4
 @moregamec|-C_nlJK4WuI|done|ПОЛНОСТЬЮ ПЕРЕНЕСЛИ VALORANT В CS2.mp4
 @moregamec|0vVTHkI3CQg|done|ПРИДУМАЛИ 0 iq ТАКТИКИ ДЛЯ ПОБЕДЫ В CS2 #5.mp4
 @moregamec|2EyThN3s4Ms|done|ИЗДЕВАЕМСЯ НАД ПРОТИВНИКАМИ С SSG 08 В CS2.mp4
@@ -310,10 +317,3 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
-@Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
-@kurocs2|zibqZVNCOq8|done|ВСЕ ПОЗИЦИИ НА МИРАЖЕ В КС2!.mp4
-@Murzikfix|AT0Qzp2XaPw|done|РЕВОЛЬВЕР С ЧИТАМИ СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
-@Delightyt|TKf21ZPjAiQ|skip-big|1763MB
-@Delightyt|bst1VcyRBUU|done|ФИНАЛ КАЛИБРОВКИ в CS2.mp4
-@kurocs2|wUSz3ObLERQ|skip-topic|ВСЕ ФИШКИ СИМПЛА В ПРАЙМЕ ЗА 15 МИНУТ!
-@kurocs2|zZFtG4CQ4C4|skip-topic|ВСЕ ФИШКИ ЗАЙВУ ЗА 15 МИНУТ!
