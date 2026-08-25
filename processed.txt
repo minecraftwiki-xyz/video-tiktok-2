@@ -19,7 +19,6 @@
 @Delightyt|hrF6BAWv_mw|skip-topic|КИБЕРКЛУБ за 300.000.000 РУБЛЕЙ в ПИТЕРЕ
 @Delightyt|iE-ymszskls|done|Выбил ПЕРЧАТКИ за 300.000 Рублей - Открыл 500 НОВЫХ ТЕРМИНАЛОВ (CS2).mp4
 @Delightyt|iVP-QiCwX5g|done|Я Открыл 2000 ЗВЕЗД в ARMORY PASS в CS2.mp4
-@Delightyt|lNVsN_GrUfI|done|АПНУЛ 30.000 РЕЙТИНГА, но СОШЕЛ с УМА (CS2).mp4
 @Delightyt|puXA7R5AcGc|done|ГЛАВНЫЙ НЫТИК ФЕЙСИТА - FACEIT в СОЛО (CS2).mp4
 @Delightyt|rMDtCJrPgZM|done|Прошел КАЛИБРОВКУ на FACEIT (CS2).mp4
 @Delightyt|ygx9Lj5LbQE|done|КАЛИБРОВКА в 5 Сезоне Премьера - VALVE Отключили Анти Чит (CS2).mp4
@@ -59,9 +58,7 @@
 @Murzikfix|c9k8V47jZ6M|skip-big|629MB
 @Murzikfix|fFQJokt9Uow|done|ОТКРЫЛ 300 SPECTRUM2 КЕЙСОВ В CS2.mp4
 @Murzikfix|fZLPBQvgELA|done|НАЙДИ КОМАНДУ НА УЛИЦЕ И ВЫИГРАЙ ТУРНИР В CS2 #2.mp4
-@Murzikfix|hFbfNU7M5rQ|done|КАК Я ОТКРЫЛ 300 ФЕНИКС КЕЙСОВ В CS2.mp4
 @Murzikfix|j3SDAA_Q_dE|done|СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА 9-10 LVL FACEIT В CS2.mp4
-@Murzikfix|k1hRi03Su7o|done|ДОВЕЛ 10 LVL ДО ИСТЕРИКИ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @Murzikfix|lqfKxW2B0lQ|done|КАК Я ПОПАЛ НА 5 LVL FACEIT В CS2.mp4
 @Murzikfix|o9p1KfPVYKM|done|КАК Я ОТКРЫЛ 1500 ЗВЕЗД В CS2.mp4
 @Murzikfix|tB6H7u-B0HY|done|СЛУШАЮ ВОЙС ЧАТ НАГЛЫХ СТРИМСНАЙПЕРОВ НА FACEIT В CS2.mp4
@@ -169,11 +166,10 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|69ng1SrPJjI|done|100 ОШИБОК НОВИЧКОВ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|6Mh1BsnpPmE|done|100 СОВЕТОВ НОВИЧКАМ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|81SNbzPEu6k|done|АЙСБЕРГ МЕХАНИК В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|8LbPITJ5a0A|skip-topic|КАК ИГРАЮТ ТОП СНАЙПЕРЫ НА САМОМ ДЕЛЕ?
@@ -206,7 +202,6 @@
 @kurocs2|_DHPQkFFMVE|done|ВСЕ ПРО ПИКИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|akVYahYftdY|done|10 ОШИБОК НА КАЖДОЙ КАРТЕ В КС2!.mp4
 @kurocs2|bF6-fKJBFDo|skip-topic|КАК ИГРАЮТ ТОП РИФЛЕРЫ НА САМОМ ДЕЛЕ?
-@kurocs2|g1ni9uu-_No|done|СЕКРЕТНЫЕ НАСТРОЙКИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|gEbpKbfV-zc|done|КАК ИГРАЮТ ТОП-1 ФЕЙСИТА РАЗНЫХ РЕГИОНОВ часть 2.mp4
 @kurocs2|gEbpKbfV-zc|skip-topic|КАК ИГРАЮТ ТОП-1 ФЕЙСИТА РАЗНЫХ РЕГИОНОВ? часть 2
 @kurocs2|hVS32iAc7Wc|done|НАСТРОЙКА КОНФИГА В КС2 ЗА 15 МИНУТ!.mp4
@@ -215,7 +210,6 @@
 @kurocs2|oGHYLjcz02k|done|РАЗНИЦА МЕЖДУ ТОП-1 ФЕЙСИТА И 1 ЛВЛ!.mp4
 @kurocs2|oGXD23o9xKI|done|50 ШАГОВ КАК ПОПАСТЬ В КИБЕРСПОРТ! (КС2).mp4
 @kurocs2|pk-SwuVmzgA|skip-topic|ПОЛНЫЙ ГАЙД НА МИРАЖЕ ЗА 15 МИНУТ!
-@kurocs2|shBio--vwr8|skip-topic|КАКАЯ РАЗНИЦА В ИГРЕ МЕЖДУ 3 ЛВЛ И 3000 ЭЛО?
 @kurocs2|tVnOpudvmA4|done|КАК ИГРАЮТ ЛВЛА ФЕЙСИТА НА САМОМ ДЕЛЕ.mp4
 @kurocs2|toc1zPgo1y8|done|РАЗБИРАЮ ДЕМКИ ПОДПИСЧИКОВ В КС2! часть 3.mp4
 @kurocs2|u7CaT2Uk0CY|done|НОВЫЕ ЛАЙФХАКИ В КС2 ЗА 15 МИНУТ!.mp4
@@ -292,3 +286,11 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
+@kurocs2|69ng1SrPJjI|done|100 ОШИБОК НОВИЧКОВ В КС2 И НЕ ТОЛЬКО!.mp4
+@Murzikfix|k1hRi03Su7o|done|ДОВЕЛ 10 LVL ДО ИСТЕРИКИ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
+@Delightyt|lNVsN_GrUfI|done|АПНУЛ 30.000 РЕЙТИНГА, но СОШЕЛ с УМА (CS2).mp4
+@kurocs2|shBio--vwr8|skip-topic|КАКАЯ РАЗНИЦА В ИГРЕ МЕЖДУ 3 ЛВЛ И 3000 ЭЛО?
+@kurocs2|g1ni9uu-_No|done|СЕКРЕТНЫЕ НАСТРОЙКИ В КС2 ЗА 15 МИНУТ!.mp4
+@Murzikfix|hFbfNU7M5rQ|done|КАК Я ОТКРЫЛ 300 ФЕНИКС КЕЙСОВ В CS2.mp4
+@Delightyt|IYTG7FVN2Tg|done|Сыграл ТУРНИР СТРИМЕРОВ на 1.000.000 РУБЛЕЙ (CS2).mp4
+@kurocs2|kxnvkZnJF5I|skip-topic|ПЕРВАЯ VS ПОСЛЕДНЯЯ ИГРА СИМПЛА!
