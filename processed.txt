@@ -59,7 +59,6 @@
 @Murzikfix|fFQJokt9Uow|done|ОТКРЫЛ 300 SPECTRUM2 КЕЙСОВ В CS2.mp4
 @Murzikfix|fZLPBQvgELA|done|НАЙДИ КОМАНДУ НА УЛИЦЕ И ВЫИГРАЙ ТУРНИР В CS2 #2.mp4
 @Murzikfix|j3SDAA_Q_dE|done|СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА 9-10 LVL FACEIT В CS2.mp4
-@Murzikfix|k1hRi03Su7o|done|ДОВЕЛ 10 LVL ДО ИСТЕРИКИ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @Murzikfix|lqfKxW2B0lQ|done|КАК Я ПОПАЛ НА 5 LVL FACEIT В CS2.mp4
 @Murzikfix|o9p1KfPVYKM|done|КАК Я ОТКРЫЛ 1500 ЗВЕЗД В CS2.mp4
 @Murzikfix|tB6H7u-B0HY|done|СЛУШАЮ ВОЙС ЧАТ НАГЛЫХ СТРИМСНАЙПЕРОВ НА FACEIT В CS2.mp4
@@ -167,11 +166,10 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|69ng1SrPJjI|done|100 ОШИБОК НОВИЧКОВ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|6Mh1BsnpPmE|done|100 СОВЕТОВ НОВИЧКАМ В КС2 И НЕ ТОЛЬКО!.mp4
 @kurocs2|81SNbzPEu6k|done|АЙСБЕРГ МЕХАНИК В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|8LbPITJ5a0A|skip-topic|КАК ИГРАЮТ ТОП СНАЙПЕРЫ НА САМОМ ДЕЛЕ?
@@ -288,3 +286,7 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
+@kurocs2|69ng1SrPJjI|done|100 ОШИБОК НОВИЧКОВ В КС2 И НЕ ТОЛЬКО!.mp4
+@Murzikfix|k1hRi03Su7o|done|ДОВЕЛ 10 LVL ДО ИСТЕРИКИ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
+@Delightyt|lNVsN_GrUfI|done|АПНУЛ 30.000 РЕЙТИНГА, но СОШЕЛ с УМА (CS2).mp4
+@kurocs2|shBio--vwr8|skip-topic|КАКАЯ РАЗНИЦА В ИГРЕ МЕЖДУ 3 ЛВЛ И 3000 ЭЛО?
