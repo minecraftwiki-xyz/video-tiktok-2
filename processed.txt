@@ -8,7 +8,6 @@
 @Delightyt|EPKs-2JoqUI|done|VALVE УБИЛИ Премьер Режим - Дорога к 40.000 Рейтинга (CS2).mp4
 @Delightyt|FaEblndhA0A|done|Вернулся на FACEIT за 30.000.000 Рублей (CS2).mp4
 @Delightyt|GfmMWIxnKhg|done|СЫГРАЛ ТУРНИР по CSGO.mp4
-@Delightyt|GvAWdHPrZ60|done|Мышка БЕЗ ИНПУТ ЛАГА - Самая БЫСТРАЯ МЫШЬ в CS2.mp4
 @Delightyt|HQohibX4ljs|done|БАНИМ ЧИТЕРОВ в CS2 - Дорога к 30.000 РЕЙТИНГА.mp4
 @Delightyt|HtzbR3sWT-8|done|НЕ ИГРАЙТЕ ПРЕМЬЕР РЕЖИМ - Дорога к 30.000 Рейтинга (CS2).mp4
 @Delightyt|IYTG7FVN2Tg|done|Сыграл ТУРНИР СТРИМЕРОВ на 1.000.000 РУБЛЕЙ (CS2).mp4
@@ -25,7 +24,6 @@
 @Delightyt|XGbjuFCkpcw|done|Я ТОП 15 в ПРЕМЬЕР РЕЖИМЕ - Дорога к 35.000 Рейтинга (CS2).mp4
 @Delightyt|YYGMg0r2OzI|skip-topic|РУМТУР - Мое Рабочее Место за 2.000.000 Рублей
 @Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
-@Delightyt|a42y2bxA9e8|done|Я Научил ТИК ТАКА ИГРАТЬ В CS2.mp4
 @Delightyt|aEACfh3WxzI|skip-big|543MB
 @Delightyt|bst1VcyRBUU|done|ФИНАЛ КАЛИБРОВКИ в CS2.mp4
 @Delightyt|cmUi7EGD3jE|skip-big|487MB
@@ -68,7 +66,6 @@
 @Murzikfix|87duYgV4xYw|done|100 КИЛЛОВ ЗА 2 ИГРЫ, СЛУШАЮ ВОЙС ЧАТ 9 LVL FACEIT В CS2.mp4
 @Murzikfix|8M0JCwvokJo|done-exists|НОВЫЙ CACHE В CS2, СЫГРАЛ МАТЧМЕЙКИНГ НА НОВОМ CACHE В CS2 - Обновление кс2.mp4
 @Murzikfix|AT0Qzp2XaPw|done|РЕВОЛЬВЕР С ЧИТАМИ СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
-@Murzikfix|Bf5vDiOzNMY|done|КАК Я ВЫБИЛ ОЧЕНЬ ДОРОГИЕ ПЕРЧАТКИ И КЕРАМБИТ В CS2.mp4
 @Murzikfix|DJEXgogXPWM|done|#2 CS2 S5. ВЫСОКИЙ РЕЙТИНГ И РЕЙДЖ СОФТЕР (КАЛИБРОВКА В КС2).mp4
 @Murzikfix|FcymhiLTNsM|skip-big|558MB
 @Murzikfix|HLqXQBvEtt8|done|КАК МЫ ОТКРЫЛИ 400 СУВЕНИРНЫХ НАБОРОВ В CS2 ft. Шукарз, Толик.mp4
@@ -339,3 +336,7 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
+@Delightyt|GvAWdHPrZ60|done|Мышка БЕЗ ИНПУТ ЛАГА - Самая БЫСТРАЯ МЫШЬ в CS2.mp4
+@Murzikfix|Bf5vDiOzNMY|done-exists|КАК Я ВЫБИЛ ОЧЕНЬ ДОРОГИЕ ПЕРЧАТКИ И КЕРАМБИТ В CS2.mp4
+@Murzikfix|TBt6Ag21EX0|done|СЛУШАЮ ВОЙС ЧАТ 10 LVL FACEIT В CS2.mp4
+@Delightyt|a42y2bxA9e8|done-exists|Я Научил ТИК ТАКА ИГРАТЬ В CS2.mp4
