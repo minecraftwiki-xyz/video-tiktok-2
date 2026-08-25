@@ -17,7 +17,6 @@
 @Delightyt|W9QOysVDRUU|done|КАК Я ПРОХОДИЛ КАЛИБРОВКУ на FACEIT в CS2.mp4
 @Delightyt|XGbjuFCkpcw|done|Я ТОП 15 в ПРЕМЬЕР РЕЖИМЕ - Дорога к 35.000 Рейтинга (CS2).mp4
 @Delightyt|YYGMg0r2OzI|skip-topic|РУМТУР - Мое Рабочее Место за 2.000.000 Рублей
-@Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
 @Delightyt|cmUi7EGD3jE|skip-big|487MB
 @Delightyt|eXSiKGkaMFg|done|ФИНАЛ Калибровки - VALVE УДАЛИЛИ АНТИ ЧИТ в CS2.mp4
 @Delightyt|fuKmStNu0_g|done|Добавили CACHE в CS2, ИЗМЕНИЛИ DUST 2 - Новое Обновление в КС2.mp4
@@ -180,7 +179,7 @@
 @klass123|yvjCVhJXr2Y|done|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ).mp4
 @klass123|yvjCVhJXr2Y|skip-topic|ТЫ СТОИШЬ НЕ ТАМ! ХУДШИЕ VS ЛУЧШИЕ ПОЗИЦИИ В КС2 (ТИР-ЛИСТ)
 @kurocs2|-Xd_B1EGSHc|done|ПОЛНЫЙ ГАЙД НА МУВМЕНТ В КС2 ЗА 15 МИНУТ!.mp4
-@kurocs2|0rUMptvfgEY|done|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
+@kurocs2|0rUMptvfgEY|done-exists|ВСЕ ПРО ТАЙМИНГИ В КС2 ЗА 15 МИНУТ!.mp4
 @kurocs2|1mEAYubsNAA|skip-topic|КАК ИГРАЮТ ТОП КАПИТАНЫ НА САМОМ ДЕЛЕ?
 @kurocs2|27-Nz20ieDs|skip-topic|ПОЛНЫЙ ГАЙД НА ДАСТЕ ЗА 15 МИНУТ!
 @kurocs2|2Ls5JPxfMTc|done|ВСЕ ПРОСТРЕЛЫ В КС2 ЗА 15 МИНУТ!.mp4
@@ -246,7 +245,6 @@
 @kurocs2|xJDyrxwu_oo|skip-topic|КАК ВЫИГРЫВАТЬ ДУЭЛИ В КС ЗА 15 МИНУТ!
 @kurocs2|xX9VCMu5PVQ|skip-topic|ПЕРВАЯ VS ПОСЛЕДНЯЯ ИГРА KYOUSUKE!
 @kurocs2|yGvP4qfn02Q|skip-topic|LEVEL 7 THINKS HE PLAYS LIKE 3500 ELO!
-@kurocs2|zibqZVNCOq8|done|ВСЕ ПОЗИЦИИ НА МИРАЖЕ В КС2!.mp4
 @moregamec|-C_nlJK4WuI|done|ПОЛНОСТЬЮ ПЕРЕНЕСЛИ VALORANT В CS2.mp4
 @moregamec|0vVTHkI3CQg|done|ПРИДУМАЛИ 0 iq ТАКТИКИ ДЛЯ ПОБЕДЫ В CS2 #5.mp4
 @moregamec|2EyThN3s4Ms|done|ИЗДЕВАЕМСЯ НАД ПРОТИВНИКАМИ С SSG 08 В CS2.mp4
@@ -312,3 +310,7 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
+@Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
+@kurocs2|zibqZVNCOq8|done|ВСЕ ПОЗИЦИИ НА МИРАЖЕ В КС2!.mp4
+@Murzikfix|AT0Qzp2XaPw|done|РЕВОЛЬВЕР С ЧИТАМИ СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
+@Delightyt|TKf21ZPjAiQ|skip-big|1763MB
