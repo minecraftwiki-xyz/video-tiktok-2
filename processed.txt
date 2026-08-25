@@ -1,4 +1,3 @@
-@Delightyt|-geH1BlP22w|done|Скрафтил САМЫЕ РЕДКИЕ ПЕРЧАТКИ в CS2 - Крафт 10 Ножей и Перчаток в КС2.mp4
 @Delightyt|0EM2ibzjP_8|done-exists|НОВЫЕ ПЕРЧАТКИ и НОВАЯ КОЛЛЕКЦИЯ в CS2 - Терминал DEAD HAND, Новое Обнов�.mp4
 @Delightyt|6l0yEOb7oyc|done|Прошел КАЛИБРОВКУ на ВСЕХ КАРТАХ в CS2.mp4
 @Delightyt|7nmvUDe2upM|done|КАЛИБРОВКА без ПОРАЖЕНИЙ в CS2 - Какой Рейтинг я ПОЛУЧУ.mp4
@@ -9,7 +8,6 @@
 @Delightyt|EPKs-2JoqUI|done|VALVE УБИЛИ Премьер Режим - Дорога к 40.000 Рейтинга (CS2).mp4
 @Delightyt|FaEblndhA0A|done|Вернулся на FACEIT за 30.000.000 Рублей (CS2).mp4
 @Delightyt|GfmMWIxnKhg|done|СЫГРАЛ ТУРНИР по CSGO.mp4
-@Delightyt|GvAWdHPrZ60|done|Мышка БЕЗ ИНПУТ ЛАГА - Самая БЫСТРАЯ МЫШЬ в CS2.mp4
 @Delightyt|HQohibX4ljs|done|БАНИМ ЧИТЕРОВ в CS2 - Дорога к 30.000 РЕЙТИНГА.mp4
 @Delightyt|HtzbR3sWT-8|done|НЕ ИГРАЙТЕ ПРЕМЬЕР РЕЖИМ - Дорога к 30.000 Рейтинга (CS2).mp4
 @Delightyt|IYTG7FVN2Tg|done|Сыграл ТУРНИР СТРИМЕРОВ на 1.000.000 РУБЛЕЙ (CS2).mp4
@@ -26,7 +24,6 @@
 @Delightyt|XGbjuFCkpcw|done|Я ТОП 15 в ПРЕМЬЕР РЕЖИМЕ - Дорога к 35.000 Рейтинга (CS2).mp4
 @Delightyt|YYGMg0r2OzI|skip-topic|РУМТУР - Мое Рабочее Место за 2.000.000 Рублей
 @Delightyt|ZYYxYM7wXdU|done|Я СЫГРАЛ на КАЖДОМ Звании в CS2.mp4
-@Delightyt|a42y2bxA9e8|done|Я Научил ТИК ТАКА ИГРАТЬ В CS2.mp4
 @Delightyt|aEACfh3WxzI|skip-big|543MB
 @Delightyt|bst1VcyRBUU|done|ФИНАЛ КАЛИБРОВКИ в CS2.mp4
 @Delightyt|cmUi7EGD3jE|skip-big|487MB
@@ -39,7 +36,6 @@
 @Delightyt|lNVsN_GrUfI|done|АПНУЛ 30.000 РЕЙТИНГА, но СОШЕЛ с УМА (CS2).mp4
 @Delightyt|ox9FKuKyCW0|done|Сыграл Турнир на 30.000.000 РУБЛЕЙ в CS2.mp4
 @Delightyt|puXA7R5AcGc|done|ГЛАВНЫЙ НЫТИК ФЕЙСИТА - FACEIT в СОЛО (CS2).mp4
-@Delightyt|q8h0KBgavKY|done|КРАФТ НОЖЕЙ и ПЕРЧАТОК в CS2 - VALVE Сломали Рынок Скинов, Новое Обновл.mp4
 @Delightyt|rMDtCJrPgZM|done|Прошел КАЛИБРОВКУ на FACEIT (CS2).mp4
 @Delightyt|ygx9Lj5LbQE|done|КАЛИБРОВКА в 5 Сезоне Премьера - VALVE Отключили Анти Чит (CS2).mp4
 @Delightyt|yspPKaRTfb4|done|ОТКРЫЛ 200 НОВЫХ ТЕРМИНАЛОВ DEAD HAND - Выбил Перчатки за 200.000 (CS2).mp4
@@ -64,24 +60,20 @@
 @MrSilentChannelTV|oHUwcJ1yPf8|done|Я РАЗОБЛАЧИЛ НОВЫЕ ФЕЙК МОМЕНТЫ В КС2 - CS2.mp4
 @MrSilentChannelTV|zH8rFKv9NgU|done|Я КУПИЛ РАНДОМНЫЕ АККАУНТЫ С ИНВЕНТАРЕМ ЗА 100, 1.000, 10.000 РУБЛЕЙ  - ЧТО.mp4
 @Murzikfix|157aE1fsnWM|done|КАК МЫ ОТКРЫЛИ КАЖДЫЙ КЕЙС В CS2 ПО 2 РАЗА.mp4
-@Murzikfix|3AADoDBTP6w|skip-big|588MB
 @Murzikfix|4nGyrJ5loPY|done|КАК Я ОТКРЫЛ SPECTRUM2 КЕЙСЫ КС2.mp4
 @Murzikfix|5cWWm8IUb20|done|КАК Я ВЫБИВАЛ НОЖ БАБОЧКУ В CS2.mp4
 @Murzikfix|5juS1vjaN6g|done|#1 CS2 S5. ЗОЛОТАЯ КАЛИБРОВКА В CS2.mp4
 @Murzikfix|87duYgV4xYw|done|100 КИЛЛОВ ЗА 2 ИГРЫ, СЛУШАЮ ВОЙС ЧАТ 9 LVL FACEIT В CS2.mp4
 @Murzikfix|8M0JCwvokJo|done-exists|НОВЫЙ CACHE В CS2, СЫГРАЛ МАТЧМЕЙКИНГ НА НОВОМ CACHE В CS2 - Обновление кс2.mp4
 @Murzikfix|AT0Qzp2XaPw|done|РЕВОЛЬВЕР С ЧИТАМИ СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
-@Murzikfix|Bf5vDiOzNMY|done|КАК Я ВЫБИЛ ОЧЕНЬ ДОРОГИЕ ПЕРЧАТКИ И КЕРАМБИТ В CS2.mp4
 @Murzikfix|DJEXgogXPWM|done|#2 CS2 S5. ВЫСОКИЙ РЕЙТИНГ И РЕЙДЖ СОФТЕР (КАЛИБРОВКА В КС2).mp4
 @Murzikfix|FcymhiLTNsM|skip-big|558MB
 @Murzikfix|HLqXQBvEtt8|done|КАК МЫ ОТКРЫЛИ 400 СУВЕНИРНЫХ НАБОРОВ В CS2 ft. Шукарз, Толик.mp4
 @Murzikfix|KOYaYaL9OHg|done|10 LVL СОЛО - БЕЗУМИЕ, СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
-@Murzikfix|MstlmqdNiPo|skip-topic|КАК Я ВЫБИЛ 4 ПАРЫ ПЕРЧАТОК С 100 ТЕРМИНАЛОВ
 @Murzikfix|Mx7j3P7EE_o|done|ДОВЕЛ 10 LVL ДО СРЫВА.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
 @Murzikfix|QRtFKs1I0Rw|done|ШОУМАТЧ С ЧИТАМИ В CS2 ft. Coffi.mp4
 @Murzikfix|RXI8lkSy3dI|skip-big|591MB
 @Murzikfix|SNWTnE4ZOQM|done|ШОУМАТЧ НА НЕОБЫЧНЫХ MIRAGE В CS2.mp4
-@Murzikfix|TBt6Ag21EX0|done|СЛУШАЮ ВОЙС ЧАТ 10 LVL FACEIT В CS2.mp4
 @Murzikfix|UFHz7ofTMf8|done|КАК Я ОТКРЫВАЛ CHROMA 3 КЕЙСЫ В CS2.mp4
 @Murzikfix|XAaxXGuq2sI|done|КАК Я ОТКРЫЛ 300 ГАММА КЕЙСОВ В CS2.mp4
 @Murzikfix|ZALhtTkga_8|done|#3 CS2 S5. КАЛИБРОВКА - ФИНАЛ (КС2).mp4
@@ -102,9 +94,7 @@
 @Murzikfix|sJbLBA_LBhM|done|КАК Я ОТКРЫВАЛ КЕЙСЫ ГРЕЗЫ И КОШМАРЫ В CS2.mp4
 @Murzikfix|tB6H7u-B0HY|done|СЛУШАЮ ВОЙС ЧАТ НАГЛЫХ СТРИМСНАЙПЕРОВ НА FACEIT В CS2.mp4
 @Murzikfix|uULWEQqnMpY|done|10 LVL FACEIT В ТИЛЬТЕ.. СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА ФЕЙСИТ В КС2.mp4
-@Murzikfix|xcjXdO9EJk0|done|КАК Я АПНУЛ 2500 ELO НА FACEIT.. ИЛИ КАК СЕЙЧАС ИГРАЮТ 10 LVL FACEIT В CS2.mp4
 @Murzikfix|xv_RJfigklk|done|СЛУШАЮ ВОЙС ЧАТ ПРОТИВНИКОВ НА FACEIT В CS2.mp4
-@Murzikfix|z4FlOKZa0Jc|done|КАК Я ЗАШЕЛ В CSGO СПУСТЯ 3 ГОДА.mp4
 @NadeKingru|0CKUuPD4Lek|done|Когда ФЕЙЛЫ помогают в CS2!.mp4
 @NadeKingru|4YYltbWP2ag|done|CS2, но пол это ЛАВА!.mp4
 @NadeKingru|8vaOIahXJlE|done|50 Бесполезных ФАКТОВ о CS2!.mp4
@@ -346,3 +336,14 @@
 @oblome|rPGeuruKuBQ|skip-topic|Я Сделал Фейковый Чекер на Читы - Админ Ничего не Понял
 @oblome|wJ7vmaRvbpE|done-exists|Сделал Сервер в CS2 который Платит за Игру.mp4
 @oblome|wJ7vmaRvbpE|done|Сделал Сервер в CS2 который Платит за Игру.mp4
+@Delightyt|GvAWdHPrZ60|done|Мышка БЕЗ ИНПУТ ЛАГА - Самая БЫСТРАЯ МЫШЬ в CS2.mp4
+@Murzikfix|Bf5vDiOzNMY|done-exists|КАК Я ВЫБИЛ ОЧЕНЬ ДОРОГИЕ ПЕРЧАТКИ И КЕРАМБИТ В CS2.mp4
+@Murzikfix|TBt6Ag21EX0|done|СЛУШАЮ ВОЙС ЧАТ 10 LVL FACEIT В CS2.mp4
+@Delightyt|a42y2bxA9e8|done-exists|Я Научил ТИК ТАКА ИГРАТЬ В CS2.mp4
+@Delightyt|-geH1BlP22w|done|Скрафтил САМЫЕ РЕДКИЕ ПЕРЧАТКИ в CS2 - Крафт 10 Ножей и Перчаток в КС2.mp4
+@Murzikfix|MstlmqdNiPo|skip-topic|КАК Я ВЫБИЛ 4 ПАРЫ ПЕРЧАТОК С 100 ТЕРМИНАЛОВ
+@Murzikfix|z4FlOKZa0Jc|done|КАК Я ЗАШЕЛ В CSGO СПУСТЯ 3 ГОДА.mp4
+@Delightyt|q8h0KBgavKY|done|КРАФТ НОЖЕЙ и ПЕРЧАТОК в CS2 - VALVE Сломали Рынок Скинов, Новое Обновл.mp4
+@Murzikfix|3AADoDBTP6w|skip-big|588MB
+@Murzikfix|xcjXdO9EJk0|done|КАК Я АПНУЛ 2500 ELO НА FACEIT.. ИЛИ КАК СЕЙЧАС ИГРАЮТ 10 LVL FACEIT В CS2.mp4
+@Delightyt|M6gEYS3S168|done|Я Сыграл 100 ЧАСОВ в ММ подряд (CS2).mp4
